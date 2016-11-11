@@ -1,4 +1,4 @@
-var SearchBar = React.createClass({
+ivar SearchBar = React.createClass({
     render: function () {
         return (
             <form>
